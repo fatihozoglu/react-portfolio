@@ -1,0 +1,19 @@
+.profile {
+    width: 300px;
+}
+.profile-photo {
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+.profile-name {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.profile-title, .profile-mail, .profile-tel {
+    text-decoration: none;
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 18px;
+}
