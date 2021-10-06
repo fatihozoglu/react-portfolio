@@ -75,15 +75,15 @@
             "skillItems": [
                 {
                     "skillName": "Git",
-                    "skillValue": 90
+                    "skillValue": 50
                 }, 
                 {
                     "skillName": "NodeJS",
-                    "skillValue": 80
+                    "skillValue": 30
                 },
                 {
                     "skillName": "Express",
-                    "skillValue": 80
+                    "skillValue": 30
                 },
                 {
                     "skillName": "SQL",
@@ -91,9 +91,59 @@
                 },
                 {
                     "skillName": "API",
-                    "skillValue": 60
+                    "skillValue": 50
                 }
             ]
+        }
+    ],
+    "projects": [
+        {
+            "image": "https://www.linkpicture.com/q/react-game.png",
+            "title": "React Tic-Tac-Toe Game",
+            "techs": ["ReactJS", "Function Components", "Hooks"],
+            "desc": "This is the tic-tac-toe game in ReactJS official tutorial, reacreated with functional components and hooks.",
+            "demo": "https://fozoglu-react-tictactoe.surge.sh/",
+            "github": "https://github.com/fatihozoglu/react-game"
+        },
+        {
+            "image": "https://www.linkpicture.com/q/react-todo-app.png",
+            "title": "React Todo App",
+            "techs": ["ReactJS", "Function Components", "Hooks"],
+            "desc": "This is a todo app created with ReactJS functional components and hooks. You can add items, mark them as 'coompleted', filter them with categories as 'all', 'active', 'completed' and delete them.",
+            "demo": "https://fozoglu-react-todo-app.surge.sh/",
+            "github": "https://github.com/fatihozoglu/react-todo-app"
+        },
+        {
+            "image": "https://www.linkpicture.com/q/js-todo-app.png",
+            "title": "Javascript Todo App",
+            "techs": ["HTML", "CSS", "Javascript"],
+            "desc": "This is a todo app created with HTML, CSS and Javascript. You can add items, mark them as 'coompleted' and delete them.",
+            "demo": "https://fozoglu-js-todo-app.surge.sh/",
+            "github": "https://github.com/fatihozoglu/javascript-todo-app"
+        },
+        {
+            "image": "https://cs50.harvard.edu/x/2020/tracks/web/finance/finance.png",
+            "title": "Flask Finance App",
+            "techs": ["HTML", "CSS", "Javascript", "Python", "Flask"],
+            "desc": "A web application getting stock data from iexcloud.io API and allowing users to sign up/sign in, buy and sell stocks and see their profits, created with Flask/Python.",
+            "demo": "https://finance.cs50.net/register",
+            "github": "https://github.com/fatihozoglu/cs50-finance-web-app"
+        },
+        {
+            "image": "https://www.linkpicture.com/q/bootstrap-linkedin.png",
+            "title": "Bootstrap Linkedin Clone",
+            "techs": ["HTML", "CSS", "Bootstrap"],
+            "desc": "A Linkedin clone is created with Bootstrap 5.",
+            "demo": "http://fozoglu-bootstrap-linkedin-clone.surge.sh/",
+            "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Bootstrap_odev_3"
+        },
+        {
+            "image": "https://www.linkpicture.com/q/binary-calculator.png",
+            "title": "Binary Calculator",
+            "techs": ["HTML", "CSS", "Javascript"],
+            "desc": "A binary calculator which you can add, subtract, multiply and divide binary numbers. This was a challenge in HAckerRank Javascript 10 Day Challenge.",
+            "demo": "https://fozoglu-binary-calculator.surge.sh/",
+            "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Binary_Calculator"
         }
     ]
 }

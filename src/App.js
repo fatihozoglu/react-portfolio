@@ -10,7 +10,7 @@ function App( props ) {
     <div className="App">
       <Profile profileInfo={props.info.profile}/>
       <Skills skillsInfo={props.info.skills}/>
-      <Projects />
+      <Projects projectsInfo={props.info.projects}/>
       <Experience exp={props.info.experiences}/>
       <Hobbies hobbyInfo={props.info.hobbies}/>
     </div>

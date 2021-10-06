@@ -11,7 +11,7 @@ function Profile( props ) {
             <img className="profile-photo" src={photo} alt="profile" />
             <h1 className="profile-name">{props.profileInfo.name}</h1>
             <h2 className="profile-title">{props.profileInfo.title}</h2>
-            <p><HiMailOpen className="icon" /><a className="profile-link" href={props.profileInfo.mail} rel="noreferrer" target="_blank">{props.profileInfo.mail}</a></p>
+            <p><HiMailOpen className="icon" /><a className="profile-link" href={`mailto:${props.profileInfo.mail}`} rel="noreferrer">{props.profileInfo.mail}</a></p>
             <p><FaGithub className="icon" /><a className="profile-link" href={props.profileInfo.github} rel="noreferrer" target="_blank">{props.profileInfo.github.slice(8)}</a></p>
             <p><FaLinkedin className="icon" /><a className="profile-link" href={props.profileInfo.linkedin} rel="noreferrer" target="_blank">{props.profileInfo.name}</a></p>
             <p>{ props.profileInfo.profileDesc }</p>

@@ -1,7 +1,8 @@
 import "./Project.css";
 
 function Project(props) {
-  let tech = props.tech.map((item, index) => {
+  
+  let techs = props.tech.map((item, index) => {
     return (
       <span key={index} className="project-tag">
         <i>{item}</i>
@@ -16,7 +17,7 @@ function Project(props) {
       </div>
       <div className="project-info">
         <h3 className="project-title">{props.projectTitle}</h3>
-        <div className="project-tags">{tech}</div>
+        <div className="project-tags">{techs}</div>
         <p className="project-desc">{props.projectDesc}</p>
         <div className="project-btns">
           <a href={props.demoLink} rel="noreferrer" target="_blank">

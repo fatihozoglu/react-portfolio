@@ -11,6 +11,8 @@
 .projects-title {
     margin: 0;
     padding: 15px 20px;
+    font-size: 24px;
+    font-weight: 600;
     background-color: #FFFFFF;
     border-radius: 12px;
 }
