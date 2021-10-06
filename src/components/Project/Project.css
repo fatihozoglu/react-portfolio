@@ -1,7 +1,9 @@
 .project-container {
-    grid-column-start: 2;
-    grid-column-end: 4;
+    height: 240px;
     display: flex;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
 }
 
 .project-image {

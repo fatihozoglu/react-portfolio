@@ -1,29 +1,11 @@
 import "./Skills.css"
+import Skill from "../Skill/Skill"
 
-function Skills( props ) {
+function Skills() {
     return (
-        <div className="skills">
-            <h2 className="skill-title">{ props.title }</h2>
-            <div className="skill-item">
-                <label htmlFor="html-progress">HTML</label>
-                <progress id="html-progress" value="80" max="100"></progress>
-            </div>
-            <div className="skill-item">
-                <label htmlFor="css-progress">CSS</label>
-                <progress id="css-progress" value="70" max="100"></progress>
-            </div>
-            <div className="skill-item">
-                <label htmlFor="bootstrap-progress">Bootstrap</label>
-                <progress id="bootstrap-progress" value="80" max="100"></progress>
-            </div>
-            <div className="skill-item">
-                <label htmlFor="js-progress">Javascript</label>
-                <progress id="js-progress" value="70" max="100"></progress>
-            </div>
-            <div className="skill-item">
-                <label htmlFor="react-progress">React</label>
-                <progress id="react-progress" value="60" max="100"></progress>
-            </div>
+        <div className="skills-container">
+            <Skill title={"Front End Skills"} />
+            <Skill title={"Back End Skills"} />
         </div>
     );
 }

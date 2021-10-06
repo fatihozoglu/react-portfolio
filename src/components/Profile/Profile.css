@@ -1,6 +1,9 @@
 .profile {
     grid-row-start: 1;
     grid-row-end: 3;
+    padding: 20px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
 }
 
 .profile-photo {

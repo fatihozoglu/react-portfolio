@@ -7,9 +7,3 @@
     padding: 40px 20px;
     margin: 0 auto;
 }
-
-.App > * {
-    padding: 20px;
-    background-color: #FFFFFF;
-    border-radius: 12px;
-}
