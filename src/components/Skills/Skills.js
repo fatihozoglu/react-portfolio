@@ -1,11 +1,15 @@
 import "./Skills.css"
 import Skill from "../Skill/Skill"
 
-function Skills() {
+function Skills(props) {
+
+    let skills = props.skillsInfo.map( (item, index) => {
+        return <Skill key={index} skillInfo={item}/>
+    })
+
     return (
         <div className="skills-container">
-            <Skill title={"Front End Skills"} />
-            <Skill title={"Back End Skills"} />
+            {skills}
         </div>
     );
 }

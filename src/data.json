@@ -1,0 +1,99 @@
+{
+    "profile": {
+        "name": "Fatih Özoğlu",
+        "title": "Front End Web Developer",
+        "mail": "fatih.ozoglu.91@gmail.com",
+        "github": "https://github.com/fatihozoglu",
+        "linkedin": "https://www.linkedin.com/in/fatihozoglu/",
+        "profileDesc": "Electronic Engineer and self-motivated developer, who is willing to learn and create outstanding UI applications."
+    },
+    "experiences": [
+        {
+            "startDate": "Noverber 2020",
+            "jobTitle": "Front End Web Developer",
+            "endDate": "Current",
+            "jobDesc": "I have been working as a freelance front end web developer. I create apps with with HTML5, CSS3, Javascript and ReactJS."
+        },
+        {
+            "startDate": "May 2016",
+            "jobTitle": "Project Manager",
+            "endDate": "November 2020",
+            "jobDesc": "I worked as a project manager for several projects. I helped my team about the topics related Electronic Communication Engineering."
+        },
+        {
+            "startDate": "August 2013",
+            "jobTitle": "Electronic Maintenance Workshop Manager",
+            "endDate": "May 2016",
+            "jobDesc": "I was responsible for the planning and organization of a team consisting nearly 50 technical staff."
+        }
+    ],
+    "hobbies": [
+        {
+            "photoUrl": "https://cdn.pixabay.com/photo/2017/08/11/10/20/dolomites-2630271_960_720.jpg",
+            "hobbyName": "Hiking",
+            "hobbyDesc": "I love spending time in nature and coping with the challenges of the Mother Earth."
+        },
+        {
+            "photoUrl": "https://cdn.pixabay.com/photo/2015/07/02/10/13/cycling-828646_960_720.jpg",
+            "hobbyName": "Cycling",
+            "hobbyDesc": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+        },
+        {
+            "photoUrl": "https://cdn.pixabay.com/photo/2017/08/06/02/32/camp-2587926_960_720.jpg",
+            "hobbyName": "Camping",
+            "hobbyDesc": "I love spending time in nature and coping with the challenges of the Mother Earth."
+        }
+    ],
+    "skills": [
+        {
+            "skillTitle": "Front End Skills",
+            "skillItems": [
+                {
+                    "skillName": "HTML",
+                    "skillValue": 90
+                }, 
+                {
+                    "skillName": "CSS",
+                    "skillValue": 80
+                },
+                {
+                    "skillName": "Bootstrap",
+                    "skillValue": 80
+                },
+                {
+                    "skillName": "Javascript",
+                    "skillValue": 70
+                },
+                {
+                    "skillName": "React",
+                    "skillValue": 60
+                }
+            ]
+        },
+        {
+            "skillTitle": "Back End Skills",
+            "skillItems": [
+                {
+                    "skillName": "Git",
+                    "skillValue": 90
+                }, 
+                {
+                    "skillName": "NodeJS",
+                    "skillValue": 80
+                },
+                {
+                    "skillName": "Express",
+                    "skillValue": 80
+                },
+                {
+                    "skillName": "SQL",
+                    "skillValue": 50
+                },
+                {
+                    "skillName": "API",
+                    "skillValue": 60
+                }
+            ]
+        }
+    ]
+}
