@@ -55,3 +55,13 @@
     text-decoration: none;
     border: 1px solid #2F80ED;
 }
+
+@media screen and (max-width: 600px) {
+    .project-image {
+        display: none;
+    }
+
+    .project-info {
+        width: 100%;
+    }
+}

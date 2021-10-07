@@ -2,9 +2,28 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: repeat(7, 300px) auto;
-    grid-auto-flow: row;
     gap: 15px;
     max-width: 1000px;
     padding: 40px 20px;
     margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+    .App {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: repeat(37, 100px);
+        gap: 15px;
+        padding: 20px 10px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .App {
+        grid-template-columns: 100%;
+        grid-template-rows: repeat(48, 100px);
+        gap: 15px;
+        padding: 10px 10px;
+        margin: 0 auto;
+    }
 }

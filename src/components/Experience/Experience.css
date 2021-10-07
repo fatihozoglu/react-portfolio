@@ -30,3 +30,17 @@ h2 {
     font-weight: 500;
     color: #828282;
 }
+
+@media screen and (max-width: 900px) {
+    .experience {
+        grid-column: 1 / 2;
+        grid-row: 24 / 30;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .experience {
+        grid-column: 1 / 2;
+        grid-row: 31 / 37;
+    }
+}
