@@ -98,6 +98,14 @@
     ],
     "projects": [
         {
+            "image": "https://www.linkpicture.com/q/portfolio-photo.png",
+            "title": "React Portfolio Page",
+            "techs": ["ReactJS", "Function Components", "Hooks"],
+            "desc": "This is the page that you are currently browsing. It is built with ReactJS. You can find my contact info, experiences, skills and projects in it.",
+            "demo": "https://fatihozoglu.github.io/react-portfolio/",
+            "github": "https://github.com/fatihozoglu/react-portfolio"
+        },
+        {
             "image": "https://www.linkpicture.com/q/react-game.png",
             "title": "React Tic-Tac-Toe Game",
             "techs": ["ReactJS", "Function Components", "Hooks"],
@@ -124,8 +132,8 @@
         {
             "image": "https://cs50.harvard.edu/x/2020/tracks/web/finance/finance.png",
             "title": "Flask Finance App",
-            "techs": ["HTML", "CSS", "Javascript", "Python", "Flask"],
-            "desc": "A web application getting stock data from iexcloud.io API and allowing users to sign up/sign in, buy and sell stocks and see their profits, created with Flask/Python.",
+            "techs": ["HTML", "CSS", "Javascript", "Flask"],
+            "desc": "A full stack web application getting stock data from iexcloud.io API and allowing users to sign up/sign in, buy and sell stocks and see their profits, created with Flask/Python.",
             "demo": "https://finance.cs50.net/register",
             "github": "https://github.com/fatihozoglu/cs50-finance-web-app"
         },

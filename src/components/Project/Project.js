@@ -5,7 +5,7 @@ function Project(props) {
   let techs = props.tech.map((item, index) => {
     return (
       <span key={index} className="project-tag">
-        <i>{item}</i>
+        <i>#{item}</i>
       </span>
     );
   });
