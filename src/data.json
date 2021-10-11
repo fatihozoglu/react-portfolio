@@ -98,6 +98,14 @@
     ],
     "projects": [
         {
+            "image": "https://www.linkpicture.com/q/react-weather-app.png",
+            "title": "React Weather App",
+            "techs": ["ReactJS", "Function Components", "Hooks"],
+            "desc": "A weather app showing current and next 5 day's weather forecast for the selected city.",
+            "demo": "#",
+            "github": "https://github.com/fatihozoglu/react-weather-app"
+        },
+        {
             "image": "https://www.linkpicture.com/q/portfolio-photo.png",
             "title": "React Portfolio Page",
             "techs": ["ReactJS", "Function Components", "Hooks"],
