@@ -79,19 +79,19 @@
                 }, 
                 {
                     "skillName": "NodeJS",
-                    "skillValue": 30
+                    "skillValue": 10
                 },
                 {
                     "skillName": "Express",
+                    "skillValue": 10
+                },
+                {
+                    "skillName": "Python",
                     "skillValue": 30
                 },
                 {
                     "skillName": "SQL",
-                    "skillValue": 50
-                },
-                {
-                    "skillName": "API",
-                    "skillValue": 50
+                    "skillValue": 30
                 }
             ]
         }
