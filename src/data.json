@@ -100,7 +100,7 @@
         {
             "image": "https://www.linkpicture.com/q/react-weather-app.png",
             "title": "React Weather App",
-            "techs": ["ReactJS", "Function Components", "Hooks"],
+            "techs": ["ReactJS", "Function Components", "Hooks", "Context API"],
             "desc": "A weather app showing current and next 6 day's weather forecast for the selected city.",
             "demo": "https://fozoglu-react-weather-app.surge.sh/",
             "github": "https://github.com/fatihozoglu/react-weather-app"
