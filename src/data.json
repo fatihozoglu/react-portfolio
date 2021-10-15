@@ -98,6 +98,14 @@
     ],
     "projects": [
         {
+            "image": "https://www.linkpicture.com/q/react-countries.png",
+            "title": "React Countries App",
+            "techs": ["ReactJS", "React-Router", "Context API", "Dark/Light Theme", "Hooks"],
+            "desc": "An app you can list all countries, search for them and filter them by region. You can also navigate between neighbour countries in the detail page.",
+            "demo": "https://fozoglu-react-countries.surge.sh/",
+            "github": "https://github.com/fatihozoglu/react-countries"
+        },
+        {
             "image": "https://www.linkpicture.com/q/react-weather-app.png",
             "title": "React Weather App",
             "techs": ["ReactJS", "Function Components", "Hooks", "Context API"],
