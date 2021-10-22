@@ -99,6 +99,14 @@
     "projects": [
         {
             "image": "https://www.linkpicture.com/q/react-countries.png",
+            "title": "VueJS Shopping App",
+            "techs": ["VueJS", "Vue CLI", "BootstrapVue"],
+            "desc": "A shoe shopping app which you can view the products with different colors and sizes, add them to Cart, edit and delete items added to Cart",
+            "demo": "https://fozoglu-vue-shopping-cart.surge.sh/",
+            "github": "https://github.com/fatihozoglu/vue-shopping-cart"
+        },
+        {
+            "image": "https://www.linkpicture.com/q/react-countries.png",
             "title": "React Countries App",
             "techs": ["ReactJS", "React-Router", "Context API", "Dark/Light Theme", "Hooks"],
             "desc": "An app you can list all countries, search for them and filter them by region. You can also navigate between neighbour countries in the detail page.",
