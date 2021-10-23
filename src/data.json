@@ -98,7 +98,7 @@
     ],
     "projects": [
         {
-            "image": "https://ibb.co/dDtqqPq",
+            "image": "https://i.ibb.co/bXFZZsZ/vue-shopping-cart.png",
             "title": "VueJS Shopping App",
             "techs": ["VueJS", "Vue CLI", "BootstrapVue"],
             "desc": "A shoe shopping app which you can view the products with different colors and sizes, add them to Cart, edit and delete items in the Cart.",
