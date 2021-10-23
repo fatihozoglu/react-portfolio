@@ -98,11 +98,11 @@
     ],
     "projects": [
         {
-            "image": "https://www.linkpicture.com/q/react-countries.png",
+            "image": "https://ibb.co/dDtqqPq",
             "title": "VueJS Shopping App",
             "techs": ["VueJS", "Vue CLI", "BootstrapVue"],
-            "desc": "A shoe shopping app which you can view the products with different colors and sizes, add them to Cart, edit and delete items added to Cart",
-            "demo": "https://fozoglu-vue-shopping-cart.surge.sh/",
+            "desc": "A shoe shopping app which you can view the products with different colors and sizes, add them to Cart, edit and delete items in the Cart.",
+            "demo": "http://fozoglu-vue-shopping-cart.surge.sh/",
             "github": "https://github.com/fatihozoglu/vue-shopping-cart"
         },
         {
