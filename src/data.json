@@ -98,6 +98,14 @@
   ],
   "projects": [
     {
+      "image": "https://i.ibb.co/7CfcC79/vue-stock-market-app.png",
+      "title": "VueJS Stock Market App",
+      "techs": ["VueJS", "Vue CLI", "Vuex", "Vue Router", "Vuetify", "D3.js"],
+      "desc": "A stock market app to search for stock symbols and display daily, weekly and monthly data in a candlestick chart",
+      "demo": "http://fozoglu-vue-stock-market-app.surge.sh/",
+      "github": "https://github.com/fatihozoglu/vue-stock-market-app"
+    },
+    {
       "image": "https://www.linkpicture.com/q/vue-hotels-app.png",
       "title": "VueJS Hotels App",
       "techs": ["VueJS", "Vue CLI", "Vue Router", "Bootstrap"],
