@@ -198,14 +198,6 @@
       "desc": "Instagram timeline clone built with Bootstrap 5.",
       "demo": "https://fozoglu-bootstrap-instagram-clone.surge.sh/",
       "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Bootstrap_odev_2"
-    },
-    {
-      "image": "https://www.linkpicture.com/q/asian-kitchen-menu.png",
-      "title": "Asian Kitchen Menu Website",
-      "techs": ["HTML", "CSS", "Javascript"],
-      "desc": "A basic Asian restaurant menu with photos, names and ingredients of traditional asian meals. It is possible to filter meals by the country of origin.",
-      "demo": "http://fozoglu-js-asian-kitchen-menu.surge.sh/",
-      "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Javascript_odev_3"
     }
   ]
 }
