@@ -198,14 +198,6 @@
       "desc": "A Linkedin clone is created with Bootstrap 5.",
       "demo": "http://fozoglu-bootstrap-linkedin-clone.surge.sh/",
       "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Bootstrap_odev_3"
-    },
-    {
-      "image": "https://www.linkpicture.com/q/bootstrap-instagram-clone.png",
-      "title": "Bootstrap Instagram Clone",
-      "techs": ["HTML", "CSS", "Bootstrap"],
-      "desc": "Instagram timeline clone built with Bootstrap 5.",
-      "demo": "https://fozoglu-bootstrap-instagram-clone.surge.sh/",
-      "github": "https://github.com/fatihozoglu/kodluyoruz-projeler/tree/main/Bootstrap_odev_2"
     }
   ]
 }
