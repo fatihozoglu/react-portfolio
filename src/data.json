@@ -98,7 +98,15 @@
   ],
   "projects": [
     {
-      "image": "https://i.ibb.co/7CfcC79/vue-stock-market-app.png",
+      "image": "https://www.linkpicture.com/q/vue-invoice-app.png",
+      "title": "VueJS Invoice App",
+      "techs": ["VueJS", "Vue CLI", "Vuex", "Vue Router", "Vuelidate"],
+      "desc": "This is an invoice app that you can create, read, update and delete invoices and their status",
+      "demo": "http://fozoglu-vue-invoice-app.surge.sh/",
+      "github": "https://github.com/fatihozoglu/vue-invoice-app"
+    },
+    {
+      "image": "https://www.linkpicture.com/q/vue-stock-market-app.png",
       "title": "VueJS Stock Market App",
       "techs": ["VueJS", "Vue CLI", "Vuex", "Vue Router", "Vuetify", "D3.js"],
       "desc": "A stock market app to search for stock symbols and display daily, weekly and monthly data in a candlestick chart",
@@ -114,7 +122,7 @@
       "github": "https://github.com/fatihozoglu/vue-hotels-app"
     },
     {
-      "image": "https://i.ibb.co/bXFZZsZ/vue-shopping-cart.png",
+      "image": "https://www.linkpicture.com/q/vue-shopping-app.png",
       "title": "VueJS Shopping App",
       "techs": ["VueJS", "Vue CLI", "BootstrapVue"],
       "desc": "A shoe shopping app which you can view the products with different colors and sizes, add them to Cart, edit and delete items in the Cart.",
