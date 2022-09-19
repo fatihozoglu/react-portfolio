@@ -1,0 +1,27 @@
+{
+    "name": "",
+    "version": "",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "test": "",
+        "start": "",
+        "dev": ""
+    },
+    "author": "",
+    "license": "",
+    "dependencies": {
+        "compression": "",
+        "cors": "",
+        "dotenv": "",
+        "express": "^4.17.2",
+        "express-validator": "^6.14.0",
+        "helmet": "^5.0.1",
+        "mongoose": "^6.1.6"
+    },
+    "devDependencies": {
+        "jest": "",
+        "nodemon": "^2.0.15",
+        "supertest": "^6.2.1"
+    }
+}

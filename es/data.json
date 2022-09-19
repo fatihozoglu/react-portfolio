@@ -1,0 +1,255 @@
+{
+    "profile": {
+        "name": "",
+        "title": "",
+        "mail": "",
+        "github": "",
+        "linkedin": "",
+        "profileDesc": ""
+    },
+    "experiences": [
+        {
+            "startDate": "",
+            "jobTitle": "",
+            "endDate": "",
+            "jobDesc": ""
+        },
+        {
+            "startDate": "",
+            "jobTitle": "",
+            "endDate": "",
+            "jobDesc": ""
+        },
+        {
+            "startDate": "",
+            "jobTitle": "",
+            "endDate": "",
+            "jobDesc": ""
+        }
+    ],
+    "hobbies": [
+        {
+            "photoUrl": "",
+            "hobbyName": "",
+            "hobbyDesc": ""
+        },
+        {
+            "photoUrl": "",
+            "hobbyName": "",
+            "hobbyDesc": ""
+        },
+        {
+            "photoUrl": "",
+            "hobbyName": "",
+            "hobbyDesc": ""
+        }
+    ],
+    "skills": [
+        {
+            "skillTitle": "",
+            "skillItems": [
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                }
+            ]
+        },
+        {
+            "skillTitle": "",
+            "skillItems": [
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                },
+                {
+                    "skillName": "",
+                    "skillValue": ""
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "techs": [
+                "",
+                "",
+                ""
+            ],
+            "desc": "",
+            "demo": "",
+            "github": ""
+        }
+    ]
+}
